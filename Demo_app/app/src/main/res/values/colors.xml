@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="blue">#146EF4</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="red">#F44336</color>
+    <color name="white_blue">#F9FCFD</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="skyblue">#BDE0FE</color>
+    <color name="green">#166868</color>
+    <color name="light_gray">#C8C8C8</color>
+    <color name="light_green">#2BA6A6</color>
+    <color name="notification_bg">#33166868</color>
+    <color name="profile_background">#FBFBFB</color>
+</resources>

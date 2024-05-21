@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "667261933413",
+    "firebase_url": "https://smart-store-iot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-store-iot",
+    "storage_bucket": "smart-store-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667261933413:android:ae922c8933740bc047b38c",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1hLvWV_7S-YsL6bDldcR1ih5X6Ew8CnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667261933413:android:656fa9c79e97064d47b38c",
+        "android_client_info": {
+          "package_name": "com.example.myhome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1hLvWV_7S-YsL6bDldcR1ih5X6Ew8CnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
